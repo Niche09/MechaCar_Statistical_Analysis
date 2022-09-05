@@ -22,3 +22,4 @@
 
 <img width="598" alt="image" src="https://user-images.githubusercontent.com/106127571/188507563-738009f4-958f-409a-b614-7010a09fd632.png">
 
+## Study Design: MechaCar vs Competition
