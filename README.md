@@ -37,3 +37,23 @@ Most consistently Lot 1 and Lot 2 have variances of 0.98 and 7.47 which are well
 <img width="598" alt="image" src="https://user-images.githubusercontent.com/106127571/188507563-738009f4-958f-409a-b614-7010a09fd632.png">
 
 ## Study Design: MechaCar vs Competition
+
+
+Metrics
+---------
+Engine Type - Gas, Electric, Hybrid
+MPG/Gas Effeciency
+Selling Price
+Resale Price/ Value
+Safety Ratings
+Maintenance Costs
+
+Hypothesis
+-------------
+Null: MechaCar is priced well given the above metrics.
+Alternative: MechaCar is not priced well given the above metrics. 
+
+Test
+-----
+In order to determine which factors have the highest correlation with the selling price, a multiple linear regression should 
+be used.
