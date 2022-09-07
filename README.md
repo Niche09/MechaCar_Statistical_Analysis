@@ -5,6 +5,11 @@
 
 <img width="617" alt="image" src="https://user-images.githubusercontent.com/106127571/188497976-2e73d4b2-bea4-418b-9fa3-a075e91f749a.png">
 
+Given the above output it appears that the vehicle ground clearance and the vehicle length are likely to provide non-random amounts of variance
+to the model. The slope of the output is not zero; the p-value of 5.35 e-11 is smaller than the assumed significance level of 0.05%. This model does
+effectively predict mpg of MechaCar prototyles effectively because the r-squared value is 0.7149 which means that approxiamtely 71% of all mpg predications
+will be the model.
+
 
 <img width="482" alt="image" src="https://user-images.githubusercontent.com/106127571/188500582-ba71efd7-ecdd-4abb-8747-a0fbf2b41c0c.png">
 
