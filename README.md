@@ -11,10 +11,19 @@ effectively predict mpg of MechaCar prototyles effectively because the r-squared
 will be the model.
 
 
+
+## Summary Statistics on Suspension Coils
+
+
 <img width="482" alt="image" src="https://user-images.githubusercontent.com/106127571/188500582-ba71efd7-ecdd-4abb-8747-a0fbf2b41c0c.png">
 
 
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/106127571/188501048-10e45ff9-8aee-4f8f-a4c5-bdc180cbf60b.png">
+
+
+When looking at all the coils of the production lot, the variance of the coils is 62.29 PSI, which falls within the 100 PSI requirement.
+Most consistently Lot 1 and Lot 2 have variances of 0.98 and 7.47 which are well within the 100 PSI requirement. Lot 3 has a larger variance of
+170.29 which is disproportiante to the other lots.
 
 
 ## T-Tests on Suspension Coils
