@@ -47,17 +47,23 @@ Lot 3 has the sample mean of 1496.14, so something in this lot is contributing t
 
 Metrics
 ---------
-Engine Type - Gas, Electric, Hybrid
-MPG/Gas Effeciency
-Selling Price
-Resale Price/ Value
-Safety Ratings
-Maintenance Costs
+-Engine Type - Gas, Electric, Hybrid
+
+-MPG/Gas Effeciency
+
+-Selling Price
+
+-Resale Price/ Value
+
+-Safety Ratings
+
+-Maintenance Costs
 
 Hypothesis
 -------------
-Null: MechaCar is priced well given the above metrics.
-Alternative: MechaCar is not priced well given the above metrics. 
+-Null: MechaCar is priced well given the above metrics.
+
+-Alternative: MechaCar is not priced well given the above metrics. 
 
 Test
 -----
