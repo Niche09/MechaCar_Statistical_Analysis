@@ -36,6 +36,11 @@ Most consistently Lot 1 and Lot 2 have variances of 0.98 and 7.47 which are well
 
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/106127571/189011954-05041d20-765e-4950-aa71-ce45344cb1c9.png">
 
+With regards to all of the manufacturing lots the mean is 1498.78 which is less than the presumed population mean of 1500 pounds per square inch.
+Lot 1 has the true sample mean of 1500, so there is no statistical difference between the sample mean and presumed population mean.
+Lot 2 has a sample mean of 1500.02 and the sample mean and population mean of 1500 are statistically similar.
+Lot 3 has the sample mean of 1496.14, so something in this lot is contributing to it varying from the other two lots.
+
 
 ## Study Design: MechaCar vs Competition
 
