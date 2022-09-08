@@ -28,13 +28,14 @@ Most consistently Lot 1 and Lot 2 have variances of 0.98 and 7.47 which are well
 
 ## T-Tests on Suspension Coils
 
-<img width="595" alt="image" src="https://user-images.githubusercontent.com/106127571/188507457-5a1a3b72-0788-41bf-b152-d96691967f8f.png">
+<img width="492" alt="image" src="https://user-images.githubusercontent.com/106127571/189011458-fa01981e-fff8-4755-baa3-91525ba4e666.png">
 
 
-<img width="591" alt="image" src="https://user-images.githubusercontent.com/106127571/188507523-f11eee37-5d2a-4a91-a204-b0221d0422e7.png">
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/106127571/189011833-906dee20-0132-4d37-8c58-4cc6d39582b7.png">
 
 
-<img width="598" alt="image" src="https://user-images.githubusercontent.com/106127571/188507563-738009f4-958f-409a-b614-7010a09fd632.png">
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/106127571/189011954-05041d20-765e-4950-aa71-ce45344cb1c9.png">
+
 
 ## Study Design: MechaCar vs Competition
 
