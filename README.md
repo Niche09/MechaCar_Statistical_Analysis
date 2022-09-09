@@ -7,7 +7,7 @@
 
 Given the above output it appears that the vehicle ground clearance and the vehicle length are likely to provide non-random amounts of variance
 to the model. The slope of the output is not zero; the p-value of 5.35 e-11 is smaller than the assumed significance level of 0.05%. This model does
-effectively predict mpg of MechaCar prototyles effectively because the r-squared value is 0.7149 which means that approxiamtely 71% of all mpg predications
+effectively predict MPG of the prototypes effectively because the r-squared value is 0.7149 which means that approxiamtely 71% of all MPG predications
 will be the model.
 
 
